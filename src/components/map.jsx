@@ -14,17 +14,17 @@ export default function Map()
           />
           <Marker position={[6.3699,2.3906]}>
             <Popup>
-              A pretty CSS3 popup. <br /> Easily customizable.
+              Hey from unstable234__
             </Popup>
           </Marker>
           <Marker position={[6.3599,2.3856]}>
             <Popup>
-              A pretty CSS3 popup. <br /> Easily customizable.
+              Hey from unstable234__
             </Popup>
           </Marker>
           <Marker position={[6.3609,2.3906]}>
             <Popup>
-              A pretty CSS3 popup. <br /> Easily customizable.
+              Hey from unstable234__
             </Popup>
           </Marker>
         </MapContainer>
